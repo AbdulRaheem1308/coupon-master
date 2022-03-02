@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "coupon-master-203cf": {
+      "hosting": {
+        "coupon-master": [
+          "coupon-master-203cf"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "coupon-master-203cf"
+  }
+}

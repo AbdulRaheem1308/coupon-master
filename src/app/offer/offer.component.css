@@ -1,0 +1,12 @@
+.offerCard{
+  height: 315px;
+}
+
+.card-text{
+  text-align: justify;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  height: 100px;
+}

@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+.codeTerms{
+  height: 80px;
+  overflow: auto;
+  font-size: 11px;
+}
+
+.codeTitle{
+  font-size: 12px;
+}
+
+.code{
+  background-color: #f0f0f0;
+  color: #000000;
+  font-weight: 700;
+  line-height: 3;
+  border: 2px dashed;
+}
+
+.copyBtn{
+  line-height: 3;
+}
